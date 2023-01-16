@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.logo {
+    line-height: 60px;
+    padding: 15px 0;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 70px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.banner1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.solucoes-div {
+    margin-left: 340px;
+    margin-right: 340px;
+}
+
+.solucoes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.solucoes-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    font-family: "Work Sans", Arial, Tahoma, sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0px;
+    color: #161922;
+    margin-bottom: 20px;
+}
+
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 30px; */
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 0 15px;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    color: #626262;
+    text-align: center;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: "Work Sans", Arial, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0px;
+    color: #161922;
+    margin-bottom: 0px;
+}
+
+.saiba-mais-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.saiba-mais {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    color: #333333!important;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 0;
+    padding: 6px 20px;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+}
+
+
